@@ -27,3 +27,8 @@
 	path = ForgeFlow/stock-rma
 	url = git@github.com:ForgeFlow/stock-rma.git
 	branch = 14.0
+
+[submodule "OCA/manufacture"]
+	path = OCA/manufacture
+	url = git@github.com:OCA/manufacture.git
+	branch = 14.0
